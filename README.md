@@ -44,6 +44,8 @@ The Titanic dataset is a popular dataset used in machine learning, particularly 
 | LightGBM            | 80.92%       |
 | CatBoost            | 82.06%       |
 
+![Model Performance Comparison](accuracy_plot_titanic.png)
+
 ## Conclusion
 
 After evaluating all the models on the Titanic dataset, **CatBoost** emerges as the best-performing model with an accuracy of **82.06%**. This is due to its ability to handle categorical data efficiently and its overall robustness. **LightGBM** and **XGBoost** also performed exceptionally well, with accuracies of **80.92%** and **80.53%**, respectively. These gradient boosting methods are highly effective for tabular datasets, especially when handling interactions and non-linear relationships.
