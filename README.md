@@ -13,6 +13,8 @@ plotly: For interactive visualizations
 
 tensorflow: For LSTM (Deep Learning) model
 
+**Or you can directly run the notebook on google colab with no need to install any other dependency**
+
 ## Introduction
 
 The Titanic dataset is a popular dataset used in machine learning, particularly for binary classification problems. It consists of data about passengers on the RMS Titanic and whether they survived or not. The task is to predict survival using various features such as age, sex, class, fare, and embarkation port. In this study, we compare the performance of multiple machine learning models: **Logistic Regression**, **Random Forest**, **Neural Networks**, **LSTM (Long Short-Term Memory)**, **XGBoost**, **LightGBM**, and **CatBoost**. We will discuss how each model works, its nature, and determine which model is best suited for this problem based on accuracy metrics.
