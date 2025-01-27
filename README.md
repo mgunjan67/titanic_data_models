@@ -1,10 +1,16 @@
 ## Dependencies List for local machine/ virtual environments
 pandas: For data manipulation and analysis
+
 scikit-learn: For machine learning models and evaluation metrics
+
 xgboost: For implementing XGBoost model
+
 lightgbm: For implementing LightGBM model
+
 catboost: For implementing CatBoost model
+
 plotly: For interactive visualizations
+
 tensorflow: For LSTM (Deep Learning) model
 
 ## Introduction
