@@ -1,3 +1,12 @@
+## Dependencies List for local machine/ virtual environments
+pandas: For data manipulation and analysis
+scikit-learn: For machine learning models and evaluation metrics
+xgboost: For implementing XGBoost model
+lightgbm: For implementing LightGBM model
+catboost: For implementing CatBoost model
+plotly: For interactive visualizations
+tensorflow: For LSTM (Deep Learning) model
+
 ## Introduction
 
 The Titanic dataset is a popular dataset used in machine learning, particularly for binary classification problems. It consists of data about passengers on the RMS Titanic and whether they survived or not. The task is to predict survival using various features such as age, sex, class, fare, and embarkation port. In this study, we compare the performance of multiple machine learning models: **Logistic Regression**, **Random Forest**, **Neural Networks**, **LSTM (Long Short-Term Memory)**, **XGBoost**, **LightGBM**, and **CatBoost**. We will discuss how each model works, its nature, and determine which model is best suited for this problem based on accuracy metrics.
